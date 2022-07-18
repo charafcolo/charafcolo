@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Charaf</h1>
 
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=backend+developer;mangojuice+addict;php+for+life">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=backend+developer;mango+juice+addict;php+for+life">
 </p>
 
 <h3 align="center">A passionate backend developer from France 🥖.</h3>
+
 
 - 🔭 I’m currently working on **my portfolio**
 
