@@ -7,11 +7,11 @@
 <h3 align="center">A passionate fullstack web developer from France 🥖.</h3>
 
 
-- 🔭 I’m currently working on **a shocase site with React**
+- 🔭 I’m currently working on **a showcase site with React**
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **charafcolo@hotmail.fr**
+- 📫 How to reach me **https://charafcolo.fr**
 
 
 <h3 align="left">Languages and Tools:</h3>
