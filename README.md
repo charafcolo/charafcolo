@@ -4,10 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=backend+developer;mango+juice+addict;php+for+life">
 </p>
 
-<h3 align="center">A passionate backend developer from France 🥖.</h3>
+<h3 align="center">A passionate fullstack web developer from France 🥖.</h3>
 
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **a shocase site with React**
 
 - 🌱 I’m currently learning **React**
 
