@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Charaf</h1>
 
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=backend+developer;mango+juice+addict;php+for+life">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=backend+developer;mango+juice+addict">
 </p>
 
 <h3 align="center">A passionate fullstack web developer from France 🥖.</h3>
 
 
-- 🔭 I’m currently working on **a showcase site with React**
+- 🔭 I’m currently working on **C#.NET Website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C# .NET**
 
 - 📫 How to reach me **https://charafcolo.fr**
 
