@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C# .NET**
 
-- 📫 How to reach me **https://charafcolo.fr**
+- 📫 How to reach me **https://charafcolo.fr/contact**
 
 
 <h3 align="left">Languages and Tools:</h3>
